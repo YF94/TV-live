@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-25 06:13:42,url
+2025-02-25 18:12:50,url
 📺央视频道,#genre#
 CCTV-1,http://www.745612.xyz:7788/rtp/235.254.198.51:1480$组播源
 CCTV-1,http://218.24.193.146:808/rtp/232.0.0.27:1234$组播源
@@ -149,6 +149,9 @@ CETV4,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 广东卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000520/index.m3u8$订阅源-IPv6
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2172536660_1354602564/ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3$订阅源-IPv6
 广东卫视,https://www.freetv.top/migu/608831231.m3u8?migutoken=71ab4343c0e7a55b1287f3c4ec3383c9de673d987b5c849b2728e9af4223510bc8d8fcb87af13066db4920eb8e871c74aa5e93e04d43de870dc64eadb99a05456adfdb14b43000fd4520cba033$订阅源
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$订阅源
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8$订阅源
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$订阅源
 浙江卫视,http://218.24.193.146:808/rtp/232.0.0.123:1234$组播源
 浙江卫视,http://36.129.204.117:9003//hls/40/index.m3u8$订阅源
 浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8$订阅源
@@ -214,18 +217,18 @@ CETV4,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=820d1dfe311ed9d88634dc040a64adbd8f30c96a6aec221a9807061025c02cc5be8e21cca6eb021eb76ad7333303e5dbe8e3ef24ad4aa58a274dc33ec25a3b373ddb6aee551e16ba35b3a9143a$订阅源
 甘肃卫视,http://218.24.193.146:808/rtp/232.0.0.50:1234$组播源
 甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8$订阅源
-甘肃卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225633$订阅源
+甘肃卫视,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_GANSU$订阅源
 甘肃卫视,http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002160/index.m3u8$订阅源-IPv6
 甘肃卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000023$订阅源-IPv6
 甘肃卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000023/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000957$订阅源-IPv6
-甘肃卫视,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_GANSU$订阅源
+甘肃卫视,http://175.31.21.146:4480/hls/49/index.m3u8$订阅源
 广西卫视,http://218.24.193.146:808/rtp/232.0.0.76:1234$组播源
 广西卫视,http://36.129.204.117:9003//hls/50/index.m3u8$订阅源
 广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8$订阅源
 广西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226549/2.m3u8$订阅源-IPv6
 广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8$订阅源-IPv6
 广西卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227250/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
-广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549$订阅源
+广西卫视,http://dl.wifi942.com:66/jsyd/jsyd.php?id=GXWS$订阅源
 贵州卫视,http://218.24.193.146:808/rtp/232.0.0.181:1234$组播源
 贵州卫视,http://36.129.204.117:9003//hls/53/index.m3u8$订阅源
 贵州卫视,http://120.76.248.139/live/bfgd/4200000101.m3u8$订阅源
@@ -452,4 +455,3 @@ NewTV动作电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9596&tk=e640d0a1bf70$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6980&tk=e640d0a1bf70$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4268&tk=b53028476470$订阅源
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源
