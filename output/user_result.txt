@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-01 18:11:50,url
+2025-03-02 06:12:20,url
 📺央视频道,#genre#
 CCTV-1,http://www.745612.xyz:7788/rtp/235.254.198.51:1480$组播源
 CCTV-1,http://218.24.193.146:808/rtp/232.0.0.27:1234$组播源
@@ -149,6 +149,9 @@ CETV4,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 广东卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000520/index.m3u8$订阅源-IPv6
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2172536660_1354602564/ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3$订阅源-IPv6
 广东卫视,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_GUANGDONG-HD-265-8M$订阅源
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$订阅源
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$订阅源
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$订阅源
 浙江卫视,http://218.24.193.146:808/rtp/232.0.0.123:1234$组播源
 浙江卫视,http://36.129.204.117:9003//hls/40/index.m3u8$订阅源
 浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8$订阅源
@@ -378,7 +381,6 @@ CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$订阅源-IPv6
 CHC动作电影,http://36.129.204.117:9003//hls/57/index.m3u8$订阅源
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002$订阅源
-CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$订阅源
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8$订阅源-IPv6
 CHC动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源-IPv6
@@ -443,4 +445,5 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9596&tk=e640d0a1bf70$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6980&tk=e640d0a1bf70$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4268&tk=b53028476470$订阅源
+河北少儿科教,http://60.7.56.33:4000/rtp/239.253.92.174:6004$组播源
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源
