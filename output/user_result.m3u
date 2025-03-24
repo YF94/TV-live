@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-03-24 06:14:48" tvg-logo="https://live.fanmingming.com/tv/2025-03-24 06:14:48.png" group-title="更新时间",2025-03-24 06:14:48
+#EXTINF:-1 tvg-name="2025-03-24 18:16:22" tvg-logo="https://live.fanmingming.com/tv/2025-03-24 18:16:22.png" group-title="更新时间",2025-03-24 18:16:22
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -863,6 +863,8 @@ http://[2409:8087:74f0:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id
 http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/1.m3u8$订阅源-IPv6
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🎬电影频道",经典电影
 http://wouu.net:9977/udp/239.93.0.57:9024$订阅源
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🎬电影频道",经典电影
+http://61.133.118.228:5001/yy/1356363815$订阅源
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://live.fanmingming.com/tv/无线星河.png" group-title="🎬电影频道",无线星河
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8$订阅源
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
@@ -938,6 +940,8 @@ http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://nas.hssvm.com:8888/udp/225.1.2.236:5002$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
+http://58.19.43.46:9901/tsfile/live/1000_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8$订阅源-IPv6
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$订阅源-IPv6
@@ -959,3 +963,9 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://live.fanmingming.com/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://61.133.118.228:5001/yy/24180320$订阅源
+#EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://live.fanmingming.com/tv/漫画解说.png" group-title="🪁动画频道",漫画解说
+https://www.goodiptv.club/douyu/5907076$订阅源
+#EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://live.fanmingming.com/tv/漫画解说.png" group-title="🪁动画频道",漫画解说
+http://61.133.118.228:5001/yy/1382735568$订阅源
